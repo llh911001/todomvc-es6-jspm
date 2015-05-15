@@ -1,0 +1,29 @@
+{
+  "jspm": {
+    "main": "handlebars",
+    "shim": {
+      "handlebars": {
+        "exports": "Handlebars"
+      }
+    },
+    "files": [
+      "handlebars.js"
+    ],
+    "buildConfig": {
+      "minify": true
+    }
+  },
+  "main": "handlebars",
+  "shim": {
+    "handlebars": {
+      "exports": "Handlebars"
+    }
+  },
+  "files": [
+    "handlebars.js"
+  ],
+  "buildConfig": {
+    "minify": true
+  },
+  "registry": "github"
+}
